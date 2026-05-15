@@ -269,7 +269,7 @@ module.exports = async (client) => {
                                 `Hey ${message.author},\nMy Prefix here is: \`${message.guild.prefix}\`\nServer Id: \`${message.guild.id}\`\n\nType \`${message.guild.prefix}\`**help** To Get The Command List.`
                             )
                             .setFooter({
-                                text: `Made by r3tract0`,
+                                text: `Made by Knowx and Kopeekool studio`,
                                 iconURL: user.displayAvatarURL({
                                     dynamic: true
                                 })
