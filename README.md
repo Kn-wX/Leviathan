@@ -56,7 +56,7 @@ Add these to your `.env` file for full functionality:
 DISCORD_TOKEN=your_bot_token
 BOT_PREFIX=!
 OPENAI_API_KEY=your_openai_key (for AI chat)
-GROQ_API_KEY=your_groqapi_key (also for AI chat
+GROQ_API_KEY=your_groqapi_key (also for AI chat)
 ```
 
 ### Setting Up Permissions
