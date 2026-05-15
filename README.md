@@ -90,6 +90,6 @@ BOT_PREFIX=&
 ### 👨‍💻 Development Team
 
 **Developer:** Knowx  
-**Discord:** `root.exe`  
+**Discord:** `kn.owx`  
 
 </div>
