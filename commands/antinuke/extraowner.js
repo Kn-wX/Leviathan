@@ -1,4 +1,3 @@
-
 module.exports = {
     name: 'extraowner',
     usage: 'Manage extra server owners',
@@ -8,8 +7,7 @@ module.exports = {
     premium: false,
     run: async (client, message, args) => {
         if (
-            message.author.id !== message.guild.ownerId &&
-            !client.config.extraowner.includes(message.author.id)
+            message.author.id !== message.guild.ownerId
         )
             return message.channel.send({
                 embeds: [
