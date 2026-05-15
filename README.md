@@ -21,7 +21,7 @@ Leviathan is a comprehensive Discord bot that brings everything you need to one 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/swagchintu09/Leviathan
+   git clone https://github.com/knowx/Leviathan
    cd Leviathan
    ```
 
