@@ -89,7 +89,7 @@ module.exports = {
                 `${client.emoji.giveaway} \`:\` **Giveaway**`
             )
             .setFooter({
-                text: `Developed By r3tract0 and Kopeekool studio`,
+                text: `Developed By Knowx and Kopeekool studio`,
                 iconURL: developerUser?.displayAvatarURL({ dynamic: true })
             });
 
