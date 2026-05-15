@@ -1,57 +1,37 @@
 {
   "TOKEN": "",
   "PREFIX": "&",
-  "MONGO_DB": "mongodb+srv://hrishithpujari_db_user:Dbdbdo@cluster0.enecgkj.mongodb.net/",
+  "MONGO_DB": "Your_mongo_db_uri",
   "developer": [
-    "839014541157203979",
-    "1419277675440115853",
-    "1363090544946970674",
-    "893796076501475351"
+    "Your_owner_id",
+    "another_owner_id"
   ],
   "Beast": [
-    "839014541157203979",
-    "1419277675440115853",
-    "1363090544946970674",
-    "893796076501475351"
+    "Your_owner_id",
+    "another_owner_id"
   ],
   "cooldown": true,
   "owner": [
-    "839014541157203979",
-    "1419277675440115853",
-    "1363090544946970674",
-    "893796076501475351"
+    "Your_owner_id",
+    "another_owner_id"
   ],
   "mainmode": [
-    "839014541157203979",
-    "1419277675440115853",
-    "1363090544946970674",
-    "893796076501475351"
+    "Your_owner_id",
+    "another_owner_id"
   ],
   "premium": [
-    "839014541157203979",
-    "1419277675440115853",
-    "1363090544946970674",
-    "893796076501475351"
+    "Your_owner_id",
+    "another_owner_id"
   ],
   "admin": [
-    "839014541157203979",
-    "1419277675440115853",
-    "1363090544946970674",
-    "893796076501475351"
+    "Your_owner_id",
+    "another_owner_id"
   ],
   "np": [
-    "839014541157203979",
-    "1419277675440115853",
-    "1363090544946970674",
-    "893796076501475351"
+    "Your_owner_id",
+    "another_owner_id"
   ],
   "invite": "https://discord.com/oauth2/authorize?client_id=1452678671767961600&scope=bot+applications.commands&permissions=8",
   "support": "https://discord.gg/D9jujP6pZ7",
   "baseText": "```ml\n<> - Required Argument ```",
-  "extraowner": [
-    "839014541157203979",
-    "1419277675440115853",
-    "1363090544946970674",
-    "893796076501475351"
-  ]
 }
