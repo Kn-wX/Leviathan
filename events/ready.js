@@ -37,7 +37,7 @@ module.exports = async (client) => {
                 },
                 {
                     activities: [{
-                        name: `r3tract0.`,
+                        name: "Kopeekool Studio",
                         type: ActivityType.Listening
                     }],
                     status: 'idle'
